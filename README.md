@@ -12,9 +12,7 @@ This repository documents my progress as I explore web development, starting wit
 
 ## Projects
 
-### freeCodeCamp
-
-Small projects and exercises created while working through the freeCodeCamp curriculum.
+Some of the projects and exercises in this repository are based on or inspired by the freeCodeCamp curriculum, which I use as one of my learning resources.
 
 ### Blog Post Card
 
@@ -22,7 +20,7 @@ A simple blog post card built with HTML and CSS to practice styling, layouts, an
 
 ### Job Application Form
 
-A responsive job application form built with HTML and CSS to practice form elements, input validation, focus states, and interactive styling.T
+A responsive job application form built with HTML and CSS to practice form elements, input validation, focus states, and interactive styling. 
 
 ## Future Topics
 
