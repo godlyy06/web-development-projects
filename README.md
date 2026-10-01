@@ -16,8 +16,13 @@ This repository documents my progress as I explore web development, starting wit
 
 Small projects and exercises created while working through the freeCodeCamp curriculum.
 
-- EDIT
-- EDIT
+### Blog Post Card
+
+A simple blog post card built with HTML and CSS to practice styling, layouts, and interactive hover effects.
+
+### Job Application Form
+
+A responsive job application form built with HTML and CSS to practice form elements, input validation, focus states, and interactive styling.T
 
 ## Future Topics
 
