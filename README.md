@@ -22,6 +22,10 @@ A simple blog post card built with HTML and CSS to practice styling, layouts, an
 
 A responsive job application form built with HTML and CSS to practice form elements, input validation, focus states, and interactive styling. 
 
+### To Do List V1
+
+A simple To Do List with HTML and CSS that uses modern design choices. This is a pre-existing To Do List, later on I will create a To-Do-List that creates/deletes/marks Lists. 
+
 ## Future Topics
 
 As I continue learning web development, this repository will expand with new technologies and projects.
