@@ -26,6 +26,10 @@ A responsive job application form built with HTML and CSS to practice form eleme
 
 A simple To Do List with HTML and CSS that uses modern design choices. This is a pre-existing To Do List, later on I will create a To-Do-List that creates/deletes/marks Lists. 
 
+### Pricing-Plan
+
+A site where I learned how to use "Flexbox". Created HTML Structure and basic CSS Structure, AI took modern Design choices and implemented them into my project. 
+
 ## Future Topics
 
 As I continue learning web development, this repository will expand with new technologies and projects.
